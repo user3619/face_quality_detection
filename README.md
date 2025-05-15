@@ -8,3 +8,12 @@ This is a little training project of 6 students of Ural Federal University, that
 
 ---
 
+The model of neural network was made with TensorFlow.keras. Dataset materials, which used for training a model, were collected from other public datasets.
+
+Модель нейросети была создана с помощью библиотеки TensorFlow.keras. Все материалы для датасета, используемого для обучения созданной модели, были взяты из других публичных датасетов.
+
+**Датасет с 70000 фотографиями** (были взяты лица без прыщей): https://github.com/NVlabs/ffhq-dataset 
+
+**Датасет с фотографиями лиц с прыщами**: https://github.com/xpwu95/LDL
+
+---
